@@ -1,0 +1,157 @@
+Resultados -------------------------- 
+Ganancia promedio por persona-92.4702336924738
+Ganancia promedio por personalidad:
+ludopata:-102.10161005620213
+kibitzer:-24.222452201646554
+millonario:-155.67836413274296
+dieciochero:-104.65340263367757
+ganador:-93.58042508894127
+Tiempo promedio por persona:
+540609.26 segundos
+Tiempo promedio por personalidad
+ludopata:597521.4 segundos
+kibitzer:471519.38095238095 segundos
+millonario:509985.13333333336 segundos
+dieciochero:592899.7272727273 segundos
+ganador:523410.0 segundos
+Ganancias en promedio diarias:
+3191.0118654817343
+Juego que generó más ganancias:
+Tipo: ruleta
+Id: 12
+Raxon de ganancias: 7.777543068528342
+Porcentaje de gente que contó cartas:
+Porcentaje: 5.0
+Razones de salida del casino
+personales:0.9859876215891064
+dinero:0.01322833319113964
+trampa:0.0007840452197540517
+Tiempo sin funcionar de cada instalacion
+Tipo:restobar
+Id:0
+Iiempo sin funcionar: 23280 segundos
+Tipo:restobar
+Id:1
+Iiempo sin funcionar: 39497 segundos
+Tipo:restobar
+Id:2
+Iiempo sin funcionar: 51914 segundos
+Tipo:restobar
+Id:3
+Iiempo sin funcionar: 50356 segundos
+Tipo:restobar
+Id:4
+Iiempo sin funcionar: 58933 segundos
+Tipo:restobar
+Id:5
+Iiempo sin funcionar: 52699 segundos
+Tipo:restobar
+Id:6
+Iiempo sin funcionar: 69557 segundos
+Tipo:restobar
+Id:7
+Iiempo sin funcionar: 70516 segundos
+Tipo:baños
+Id:8
+Iiempo sin funcionar: 0 segundos
+Tipo:baños
+Id:9
+Iiempo sin funcionar: 0 segundos
+Tipo:baños
+Id:10
+Iiempo sin funcionar: 0 segundos
+Tipo:baños
+Id:11
+Iiempo sin funcionar: 0 segundos
+Tipo:baños
+Id:12
+Iiempo sin funcionar: 0 segundos
+Tipo:baños
+Id:13
+Iiempo sin funcionar: 0 segundos
+Tipo:baños
+Id:14
+Iiempo sin funcionar: 0 segundos
+Tipo:baños
+Id:15
+Iiempo sin funcionar: 0 segundos
+Tipo:baños
+Id:16
+Iiempo sin funcionar: 0 segundos
+Tipo:tarot
+Id:17
+Iiempo sin funcionar: 59176 segundos
+Tipo:tragamonedas
+Id:0
+Iiempo sin funcionar: 575102 segundos
+Tipo:tragamonedas
+Id:1
+Iiempo sin funcionar: 573482 segundos
+Tipo:tragamonedas
+Id:2
+Iiempo sin funcionar: 577202 segundos
+Tipo:tragamonedas
+Id:3
+Iiempo sin funcionar: 578882 segundos
+Tipo:tragamonedas
+Id:4
+Iiempo sin funcionar: 573182 segundos
+Tipo:tragamonedas
+Id:5
+Iiempo sin funcionar: 574202 segundos
+Tipo:tragamonedas
+Id:6
+Iiempo sin funcionar: 575222 segundos
+Tipo:tragamonedas
+Id:7
+Iiempo sin funcionar: 581462 segundos
+Tipo:tragamonedas
+Id:8
+Iiempo sin funcionar: 578582 segundos
+Tipo:tragamonedas
+Id:9
+Iiempo sin funcionar: 572942 segundos
+Tipo:tragamonedas
+Id:10
+Iiempo sin funcionar: 574382 segundos
+Tipo:tragamonedas
+Id:11
+Iiempo sin funcionar: 580322 segundos
+Tipo:ruleta
+Id:12
+Iiempo sin funcionar: 19801 segundos
+Tipo:ruleta
+Id:13
+Iiempo sin funcionar: 48253 segundos
+Tipo:ruleta
+Id:14
+Iiempo sin funcionar: 56236 segundos
+Tipo:ruleta
+Id:15
+Iiempo sin funcionar: 58935 segundos
+Tipo:ruleta
+Id:16
+Iiempo sin funcionar: 63308 segundos
+Tipo:ruleta
+Id:17
+Iiempo sin funcionar: 85874 segundos
+Tipo:ruleta
+Id:18
+Iiempo sin funcionar: 82993 segundos
+Tipo:ruleta
+Id:19
+Iiempo sin funcionar: 74297 segundos
+Tipo:ruleta
+Id:20
+Iiempo sin funcionar: 85094 segundos
+Tipo:ruleta
+Id:21
+Iiempo sin funcionar: 81251 segundos
+Tipo:ruleta
+Id:22
+Iiempo sin funcionar: 85216 segundos
+Tipo:ruleta
+Id:23
+Iiempo sin funcionar: 96795 segundos
+Numero total de visitas por juego
+ruleta: 36560visitas
